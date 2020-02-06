@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Submission 3 GDK</string>
+    <string name="description_text">Once home to the most advanced civilization on Earth,
+            Atlantis is now an underwater kingdom ruled by the power-hungry King Orm.
+            With a vast army at his disposal, Orm plans to conquer the remaining oceanic people
+            and then the surface world. Standing in his way is Arthur Curry,
+            Orm\'s half-human, half-Atlantean brother and true heir to the throne.</string>
+    <string name="txt_detail_category">Category : </string>
+    <string name="txt_detail_duration">Duration : </string>
+    <string name="txt_detail_release_date">Release Date : </string>
+    <string name="txt_detail_shared">Shared By : MovieCatalog Application By Adjie Kurniawan</string>
+    <string name="txt_detail_subject">Movie Detail</string>
+    <string name="txt_detail_title">Share Via</string>
+    <string name="txt_detail_clicked">You like film </string>
+    <string name="poster_cover_description">poster_cover</string>
+    <string name="poster_image_description">poster_image_description</string>
+    <string name="poster_title_movie_text">The Jungle Book (2016)</string>
+    <string name="poster_duration_text">Duration : 150 minute</string>
+    <string name="poster_release_date_text">Release Date : 19 October 2018 (Indonesia)</string>
+    <string name="poster_category_text">Adventure, Drama, Familty</string>
+    <string name="poster_rating_text">4.0</string>
+    <string name="poster_description_text">Description</string>
+    <string name="toolbar_title">Movie Catalogue</string>
+    <string name="item_movie_title">Aquaman</string>
+    <string name="item_movie_category">Adventure, Drama, Familty</string>
+    <string name="item_movie_description">Description</string>
+    <string name="menu_share">Share</string>
+    <string name="fragment_title_movie">Movie Catalogue</string>
+    <string name="fragment_title_tv_show">Tv Show</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="poster_rating_title">Rating :</string>
+    <string name="other_movie_title">Other list</string>
+    <string name="menu_title_movie">Movie</string>
+    <string name="menu_title_tvshow">Tv Show</string>
+    <string name="notificationTitle">Notification</string>
+    <string name="notificationMessage">Are You Sure You Want To Exit?</string>
+    <string name="notificationButtonPositive">NO</string>
+    <string name="notificationButtonNegative">YES</string>
+    <string name="text_menit"> Minute</string>
+    <string name="txt_trailer">Trailer</string>
+    <string name="no_data_text">No Data!</string>
+    <string name="message_failed">Request Timeout. Please try again!</string>
+    <string name="message_connection_error">Connection Error!</string>
+
+</resources>

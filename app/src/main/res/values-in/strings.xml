@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission 3 GDK</string>
+    <string name="description_text">Setelah rumah bagi peradaban paling maju di Bumi,
+            Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan.
+            Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa
+            dan kemudian dunia permukaan.</string>
+    <string name="txt_detail_category">Kategori : </string>
+    <string name="txt_detail_duration">Durasi : </string>
+    <string name="txt_detail_release_date">Tanggal Rilis : </string>
+    <string name="txt_detail_shared">Aplikasi MovieCatalog Oleh Adjie Kurniawan</string>
+    <string name="txt_detail_subject">Detail Film</string>
+    <string name="txt_detail_title">Bagikan Via</string>
+    <string name="txt_detail_clicked">Anda Menyukai Film </string>
+    <string name="poster_cover_description">penutup poster</string>
+    <string name="poster_image_description">deskripsi gambar poster</string>
+    <string name="poster_title_movie_text">The Jungle Book (2016)</string>
+    <string name="poster_duration_text">150 menit</string>
+    <string name="poster_release_date_text">Tanggal Rilis: 19 Oktober 2018 (Indonesia)</string>
+    <string name="poster_category_text">Petualangan, Drama, Keluarga</string>
+    <string name="poster_rating_text">4.0</string>
+    <string name="poster_description_text">Deskripsi</string>
+    <string name="toolbar_title">Katalog Film</string>
+    <string name="item_movie_title">Aquaman</string>
+    <string name="item_movie_category">Petualangan, Drama, Keluarga</string>
+    <string name="item_movie_description">Deskripsi</string>
+    <string name="menu_share">Bagikan</string>
+    <string name="fragment_title_movie">Katalog Film</string>
+    <string name="fragment_title_tv_show">Acara TV</string>
+
+    <string name="poster_rating_title">Peringkat :</string>
+    <string name="other_movie_title">Daftar Lainnya</string>
+    <string name="menu_title_movie">Film</string>
+    <string name="menu_title_tvshow">Acara Tv</string>
+    <string name="notificationTitle">Notifikasi</string>
+    <string name="notificationMessage">Anda Ingin Keluar?</string>
+    <string name="notificationButtonPositive">TIDAK</string>
+    <string name="notificationButtonNegative">YA</string>
+    <string name="text_menit"> Menit</string>
+    <string name="txt_trailer">Trailer</string>
+    <string name="no_data_text">Tidak Ada Data!</string>
+    <string name="message_failed">Server Tidak Dapat Merespon</string>
+    <string name="message_connection_error">Koneksi Tidak Baik!</string>
+
+</resources>
